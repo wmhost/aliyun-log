@@ -1,0 +1,20 @@
+{
+    "name": "wmhost/aliyun-log",
+    "description": "Aliyun Log Service PHP SDK",
+    "keywords": ["aliyun", "sls", "log"],
+    "homepage": "http://www.aliyun.com/product/sls/",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tank",
+            "homepage": "https://www.i9588.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.2.1"
+    },
+    "autoload": {
+        "files": ["Log_Autoload.php"]
+    }
+}
