@@ -15,8 +15,6 @@
         "php": ">=5.2.1"
     },
     "autoload": {
-        "psr-0": {
-            "Log_Autoload": ""
-        }
+        "files": ["Log_Autoload.php"]
     }
 }
